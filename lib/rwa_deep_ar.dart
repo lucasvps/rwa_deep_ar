@@ -27,6 +27,11 @@ enum Masks {
   maskn3,
   maskn2,
   maskn1,
+  masknose1,
+  masknose2,
+  masknose3,
+  masknose4,
+  masknose5,
 }
 
 enum Effects {

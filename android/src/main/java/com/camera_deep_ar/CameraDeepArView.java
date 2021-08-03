@@ -283,6 +283,11 @@ public class CameraDeepArView implements PlatformView,
         masks.add("maskn2");
         masks.add("maskn3");
         masks.add("maskn4");
+        masks.add("masknose1");
+        masks.add("masknose2");
+        masks.add("masknose3");
+        masks.add("masknose4");
+        masks.add("masknose5");
 
         effects = new ArrayList<>();
         effects.add("none");
